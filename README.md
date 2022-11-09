@@ -78,6 +78,7 @@ HighScore zapisuje się dopiero w **trakcie przegranej**.
 2. Pobierz grę `helixjump3D` z mojego repozytorium.
 3. Wejdź w **"Moje pliki"** i wyszukaj pobraną grę **"xHelixJump3D"** - następnie kliknij w jej ikonę i zaznacz **"instaluj"**.
 4. Zainstalowaną grę można znaleźć już wśród innych aplikacji.
+5. Dobrej zabawy! 🥇 ( wersja gry w repozytorium - **NIE ZAWIERA REKLAM!** 😃 )
 
 
 ## Czego się nauczyłem:
