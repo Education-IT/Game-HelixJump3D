@@ -68,6 +68,18 @@ HighScore zapisuje się dopiero w **trakcie przegranej**.
 
 11. Aplikacja jest stabilna - nie zawiera łatwo wykrywalnych błędów. W aktualnej wersji ich nie dostrzegam. (przez cały etap produkcji miałem dostęp do opinii moich testerów - partnerki, siostry i rodziców. Dzięki czemu wszelkie błędy zostały zidentyfikowane i niezwłocznie naprawione. 
 
+
+## Instalacja:
+1. Zezwól swojemu smartphon'owi na instalowanie **"nieznanych aplikacji"** z **"moich plików"** (na przykładzie `samsung galaxy S5 NEO`):
+- Wejdź w **ustawienia**.
+- Wejdź w **"biometria i zabezpieczenia"**.
+- Wejdź w **"zainstaluj nieznane aplikacje"**.
+- Znajdź **"Moje pliki"** i następnie zaznacz opcję: **"Zezwalaj z tego źródła"**.
+2. Pobierz grę `helixjump3D` z mojego repozytorium.
+3. Wejdź w **"Moje pliki"** i wyszukaj pobraną grę **"xHelixJump3D"** - następnie kliknij w jej ikonę i zaznacz **"instaluj"**.
+4. Zainstalowaną grę można znaleźć już wśród innych aplikacji.
+
+
 ## Czego się nauczyłem:
 <img src="https://raw.githubusercontent.com/Education-IT/Game-HelixJump3D/main/images/apple.gif" align=right>
 
