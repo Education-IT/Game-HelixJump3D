@@ -11,7 +11,7 @@ The task was to create a mobile application containing specific elements assigne
 
 
 
-![enter image description here](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![enter image description here](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white) ![enter image description here](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![enter image description here](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) [![enter image description here](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://education-it.pl/)
+![enter image description here](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![enter image description here](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white) ![enter image description here](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![enter image description here](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) <!-- [![enter image description here](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://education-it.pl/) -->
 ### *Helix-Jump Game:*
 ***Game Menu:***
 <ol type="A">
